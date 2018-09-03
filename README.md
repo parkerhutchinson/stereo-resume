@@ -12,8 +12,7 @@
 
 **Experience**
 
-ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Laravel, 
-Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web fw), Digital Ocean, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, 
+ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress,Laravel, Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web fw), Digital Ocean, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase(alpha), Invision Stuido(beta), Framer-x(if i ever get that invite!), 
 
 ---
 
@@ -30,12 +29,16 @@ A online fantasy sports betting site for the fantasy sports curious and amateur 
 #### Lycoming(lycoming.com) - Backend/Front-end
 The Leader in aircraft Engine sales and parts supply. A marketing site with a multi-role user portol where suppliers can connect with distributors and manage their own individual profiles. users can search a large database of engines and engine parts. Printable engine specsheets and a complete mobile experience. 
 
+---
 
+## Extras
+
+#### https://Stereo.codes - Designer/Developer
+Steroe.codes is my online portfolio designed in sketch, built in React 16.x, deployed to a Digital Ocean Nginx Server. 
 
 ---
 
-### References
-
+## References
 
 | WHO | TITLE | CONTACT | RELATIONSHIP |
 | :---  | :---  | :---  | :---  |
