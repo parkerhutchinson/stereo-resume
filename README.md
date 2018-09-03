@@ -12,7 +12,7 @@
 
 **Experience**
 
-ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress,Laravel, Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web fw), Digital Ocean, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase(alpha), Invision Stuido(beta), Framer-x(if i ever get that invite!), 
+ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress,Laravel, Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web fw), Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase(alpha), Invision Stuido(beta), Framer-x(if i ever get that invite!), 
 
 ___
 
@@ -20,7 +20,7 @@ ___
 ## Employment
 
 #### The Brigade https://thisisthebrigade.com - Senior Developer
-As Senior Developer at Brigade my job encompasses the entire gammet of agency development and personal management. Tasked with providing expert knowledge in web development and agency process. To maintain client expectations on high-end web development and services. Provide solutions to tough client requests. 
+As Senior Developer at Brigade my job encompasses the entire gammet of agency web development. Tasked with providing expert knowledge in web programming and agency process. To maintain client expectations on high-end web development and services. Provide solutions to tough client requests. 
 
 * Develop high scaleable web applications in PHP, React, and bleeding edge web technologies.
 * Management of self and contractors to deliver cutting edge product applications.
@@ -30,11 +30,22 @@ As Senior Developer at Brigade my job encompasses the entire gammet of agency de
 
 
 #### Draftboard https://draftboard.com - Full Stack Javascript Developer
+Draftboard is a online fantasy sports betting application written in Django backend, React front-end, deployed to Heroku CI server. User profiles that manage monitary transactions. Offsite API and local data using Redux and pusher for near real time async data display. 
 
+* React15.x front-end development working with external and cached data.
+* Python 3.x web development in the popular Django CMS Framework. 
+* Work in house with product team to deliver feature requests and squash bugs.
+* Convert the desktop presence into a functioning mobile experience.
+* Work with the heroku CI server for daily / tri-weekly deployments.
+* Create a unified application experience through atomic design. 
 
 
 #### Purple. Rock. Scissors. https://prpl.rs - Client Side Engineer(Full Stack Javascript Developer)
-
+* Working with clients, strategy, managers, and designers to deliver high quality web experiences
+* development with large scale companies on distributed networks. 
+* design and develop high functioning front-end experiences. 
+* Build backends in Larvel, Django, Wordpress, Drupal and Node.
+* Maintain servers including delivery and building from scratch Apache and Nginx systems.
 
 
 ---
