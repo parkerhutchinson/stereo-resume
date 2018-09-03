@@ -1,6 +1,6 @@
 # Resume 2018
 
-* Parker Hutchinson
+* **Parker Hutchinson**
 * Portland OR
 * hutchinsonparker@gmail.com
 
@@ -12,7 +12,7 @@
 
 **Experience**
 
-ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress,Laravel, Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web fw), Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase(alpha), Invision Stuido(beta), Framer-x(if i ever get that invite!), 
+ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress,Laravel, Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web fw), Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase(alpha), Invision Stuido(beta), Framer-x(if i ever get that invite!), Docker, Vagrant, Virtualenv, Pyenv
 
 ___
 
@@ -41,10 +41,12 @@ Draftboard is a online fantasy sports betting application written in Django back
 
 
 #### Purple. Rock. Scissors. https://prpl.rs - Client Side Engineer(Full Stack Javascript Developer)
+Purple. Rock. Scissors.(PRPL) is a full service digital agency located in sunny Orlando Florida. As client side engineer i was entrusted with the ability to deliver front-end and backend web experience to large national and local clients.
+
 * Working with clients, strategy, managers, and designers to deliver high quality web experiences
 * development with large scale companies on distributed networks. 
 * design and develop high functioning front-end experiences. 
-* Build backends in Larvel, Django, Wordpress, Drupal and Node.
+* Build managable backends in Larvel, Django, Wordpress, Drupal and Node.
 * Maintain servers including delivery and building from scratch Apache and Nginx systems.
 
 
