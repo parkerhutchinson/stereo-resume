@@ -1,4 +1,4 @@
-# Resume 09/03/18
+# Resume 2018
 
 * Parker Hutchinson
 * Portland OR
@@ -13,6 +13,21 @@
 **Experience**
 
 ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress,Laravel, Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web fw), Digital Ocean, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase(alpha), Invision Stuido(beta), Framer-x(if i ever get that invite!), 
+
+___
+
+
+## Employment
+
+#### The Brigade https://thisisthebrigade.com
+Senior Developer
+
+#### Draftboard https://draftboard.com
+Full Stack Javascript Developer
+
+#### Purple. Rock. Scissors. https://prpl.rs
+Client Side Engineer(Full Stack Javascript Developer)
+
 
 ---
 
@@ -34,11 +49,10 @@ The Leader in aircraft Engine sales and parts supply. A marketing site with a mu
 ## Extras
 
 #### https://Stereo.codes - Designer/Developer
-Steroe.codes is my online portfolio designed in sketch, built/TTD in React 16.x, deployed to a secure Digital Ocean Nginx Server. 
-
+Steroe.codes is my online portfolio designed in sketch, built/TTD in React 16.x, deployed to a secure Digital Ocean Nginx Server. [github](https://github.com/stereocodes/stereo)
 
 #### Team Manager - Designer/Developer(active)
-A suite of technology and design open source that creates a intranet/intra-app for teams. Built in a Django Rest Framework backend with a Electron/React front-end. Generic named Team Manager has time tracking, metrics, team directory, profiles, and slack integration. The entire project from design, backend, and desktop front-end are open sourced and free to use for bootstraps or how-tos. 
+A suite of technology and design open source that creates a intranet/intra-app for teams. Built in a Django Rest Framework backend with a Electron/React front-end. Generic named Team Manager has time tracking, metrics, team directory, profiles, and slack integration. The entire project from design, backend, and desktop front-end are open sourced and free to use for bootstraps or how-tos. [github](https://github.com/stereocodes/teamtracker-design/blob/master/app-boards.md)
 
 
 ---
@@ -49,4 +63,4 @@ A suite of technology and design open source that creates a intranet/intra-app f
 | :---  | :---  | :---  | :---  |
 | **Tricia D'Anton** | UX Arch Amazon Alexa | triciad@amaz.on | Worked Together PRPL.rs |
 | **Rob Zienert** | Senior Developer Netflix | robzienert@gmail.com | Worked Together PRPL.rs |
-|**Chris Reath** | Designer Uneo | chrisreath@gmail.com | Worked Together PRPL.rs |
+| **Chris Reath** | Designer Uneo | chrisreath@gmail.com | Worked Together PRPL.rs |
