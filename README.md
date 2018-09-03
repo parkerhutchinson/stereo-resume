@@ -19,14 +19,22 @@ ___
 
 ## Employment
 
-#### The Brigade https://thisisthebrigade.com
-Senior Developer
+#### The Brigade https://thisisthebrigade.com - Senior Developer
+As Senior Developer at Brigade my job encompasses the entire gammet of agency development and personal management. Tasked with providing expert knowledge in web development and agency process. To maintain client expectations on high-end web development and services. Provide solutions to tough client requests. 
 
-#### Draftboard https://draftboard.com
-Full Stack Javascript Developer
+* Develop high scaleable web applications in PHP, React, and bleeding edge web technologies.
+* Management of self and contractors to deliver cutting edge product applications.
+* Provide recommnedation to client for solutions into process and media team managment.
+* UX/UI animation and recommendations to strengthen designer/developer relations.
+* Write user friendly and human readable documentation.
 
-#### Purple. Rock. Scissors. https://prpl.rs
-Client Side Engineer(Full Stack Javascript Developer)
+
+#### Draftboard https://draftboard.com - Full Stack Javascript Developer
+
+
+
+#### Purple. Rock. Scissors. https://prpl.rs - Client Side Engineer(Full Stack Javascript Developer)
+
 
 
 ---
