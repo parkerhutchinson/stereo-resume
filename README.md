@@ -67,8 +67,8 @@ A suite of technology and design open source that creates a intranet/intra-app f
 
 ## References
 
-| WHO | TITLE | CONTACT | RELATIONSHIP |
-| :---  | :---  | :---  | :---  |
-| **Tricia D'Anton** | UX Arch Amazon Alexa | triciad@amaz.on | Worked Together PRPL.rs |
-| **Rob Zienert** | Senior Developer Netflix | robzienert@gmail.com | Worked Together PRPL.rs |
-| **Chris Reath** | Designer Uneo | chrisreath@gmail.com | Worked Together PRPL.rs |
+| WHO | TITLE | CONTACT | RELATIONSHIP | LINKEDIN |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tricia D'Anton** | UX Arch Amazon Alexa | triciad@amaz.on | Worked Together | [resume](https://www.linkedin.com/in/triciadantin/) |
+| **Rob Zienert** | Senior Developer Netflix | robzienert@gmail.com | Worked Together | [resume](https://www.linkedin.com/in/robzienert/) |
+| **Chris Reath** | Designer Uneo | chrisreath@gmail.com | Worked Together | [resume](https://www.linkedin.com/in/chrisreath/) |
