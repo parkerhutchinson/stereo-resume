@@ -19,26 +19,26 @@ Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, P
 
 ## Recent Work
 
-#### HQ Trivia Google Actions game
+
+#### HQ Trivia Google Actions game - Senior Developer
 HQ Trivia in partnership with Google Actions team to develop custom Google Actions game based around the HQ Trivia brand.
 Using Dialogflow; A tool built by Google to facilitate training natural language assistants/appilications; a custom built API on AWS EC2/Lambda functions. Using these technologies create a unique interactive voice guided gaming experience in the HQ brand.
 
-#### Draftboard(draftboard.com)
-A online fantasy sports betting site for the fantasy sports curious and amateur betting scene. As full stack JS developer on this project I was tasked with maintaining the Django1.9 backend and React15.x front-end. Whether it be building in a web based mobile experience to Django 
+#### Draftboard(draftboard.com) - Backend/Front-end
+A online fantasy sports betting site for the fantasy sports curious and amateur betting scene. As full stack JS developer on this project I was tasked with maintaining the Django1.9 backend and React15.x front-end. 
 
-#### Lycoming(lycoming.com)
+#### Lycoming(lycoming.com) - Backend/Front-end
+The Leader in aircraft Engine sales and parts supply. A marketing site with a multi-role user portol where suppliers can connect with distributors and manage their own individual profiles. users can search a large database of engines and engine parts. Printable engine specsheets and a complete mobile experience. 
+
 
 
 ---
 
 ### References
 
-**Tricia D'Anton**
-* UX Arch Amazon Alexa
 
-
-**Rob Zienert**
-* Senior Developer Netflix
-
-**Chris Reath**
-* Designer Uneo 
+| WHO | TITLE | CONTACT | RELATIONSHIP |
+| :---  | :---  | :---  | :---  |
+| **Tricia D'Anton** | UX Arch Amazon Alexa | triciad@amaz.on | Worked Together PRPL.rs |
+| **Rob Zienert** | Senior Developer Netflix | robzienert@gmail.com | Worked Together PRPL.rs |
+|**Chris Reath** | Designer Uneo | chrisreath@gmail.com | Worked Together PRPL.rs |
