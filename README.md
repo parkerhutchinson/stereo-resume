@@ -70,7 +70,7 @@ The Leader in aircraft Engine sales and parts supply. A marketing site with a mu
 ## Extras
 
 #### https://Stereo.codes - Designer/Developer
-Steroe.codes is my online portfolio designed in sketch, built/TTD in React 16.x, deployed to a secure Digital Ocean Nginx Server. [github](https://github.com/stereocodes/stereo)
+Stereo.codes is my online portfolio designed in sketch, built/TTD in React 16.x, deployed to a secure Digital Ocean Nginx Server. [github](https://github.com/stereocodes/stereo)
 
 #### Team Manager - Designer/Developer(active)
 A suite of technology and design open source that creates a intranet/intra-app for teams. Built in a Django Rest Framework backend with a Electron/React front-end. Generic named Team Manager has time tracking, metrics, team directory, profiles, and slack integration. The entire project from design, backend, and desktop front-end are open sourced and free to use for bootstraps or how-to's. [github](https://github.com/stereocodes/teamtracker-design/blob/master/app-boards.md)
