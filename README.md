@@ -13,7 +13,7 @@
 
 **Experience**
 
-ActionScript2/3(no joke), HTML3-5, css2/3, JS/17/18/Edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress, Laravel, Zend FW, Django 1.x/2.x, Rails, Angular 1.x, Backbone, React, Underscore/lodash, Prototype(the web framework), Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, GCP, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase, Invision Studio, Framer-x, Docker, Vagrant, Virtualenv, Pyenv
+ActionScript2/3(no joke), HTML3/4/1.1strict/5, css2/3, JS/15/16/edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress, Laravel, Zend FW, Django1.x/2.x, Rails, Angular1.x, Backbone, React, Underscore/lodash, Prototype(the web framework), Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase(alpha), Invision Studio(beta), Framer-x(if I ever get that invite!), Docker, Vagrant, Virtualenv, Pyenv
 
 ___
 
@@ -69,7 +69,7 @@ HQ Trivia in partnership with Google Actions team to develop custom Google Actio
 Using Dialogflow; A tool built by Google to facilitate training natural language assistants/applications; a custom built API on AWS EC2/Lambda functions. Using these technologies create a unique interactive voice guided gaming experience in the HQ brand. Was sent to IO 2019 where google featured the product on  stage during the developer keynote. 
 
 #### Daftboard.com - Backend/Front-end
-A online fantasy sports betting site for the fantasy sports curious and amateur betting scene. As full stack JS developer on this project I was tasked with maintaining the Django 1.9 backend and React 15.x front-end. 
+A online fantasy sports betting site for the fantasy sports curious and amateur betting scene. As full stack JS developer on this project I was tasked with maintaining the Django1.9 backend and React15.x front-end. 
 
 #### Lycoming.com - Backend/Front-end
 The Leader in aircraft Engine sales and parts supply. A marketing site with a multi-role user portal where suppliers can connect with distributors and manage their own individual profiles. users can search a large database of engines and engine parts. Printable engine spec-sheets and a complete mobile experience. 
