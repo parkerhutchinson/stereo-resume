@@ -56,6 +56,10 @@ Purple. Rock. Scissors.(PRPL) is a full service digital agency located in sunny 
 
 ## Recent Work
 
+### asana.com (brand side)
+asana is one of the big online project management competitors with offices around the globe. 
+
+
 #### Spotify for Brands - Principle Developer Architect / App Designer
 Spotify for brands a LMS for holding companies in partnership with Spotify. An interactive front-end tied to a fully custom backend application powered by a mix of custom GCP / Node / React and Contentful / React. My role on this was to architect from scratch a functional CMS that drives the front-end experience for an interactive learning management system(LMS). I played two parts in the CMS. 
 
@@ -72,12 +76,6 @@ The displays were showcased at the Game Developers Conference(GDC) in San Franci
 #### HQ Trivia Google Actions game - Senior Developer
 HQ Trivia in partnership with Google Actions team to develop custom Google Actions game based around the HQ Trivia brand.
 Using Dialogflow; A tool built by Google to facilitate training natural language assistants/applications; a custom built API on AWS EC2/Lambda functions. Using these technologies create a unique interactive voice guided gaming experience in the HQ brand. Was sent to IO 2019 where google featured the product on  stage during the developer keynote. 
-
-#### Daftboard.com - Backend/Front-end
-A online fantasy sports betting site for the fantasy sports curious and amateur betting scene. As full stack JS developer on this project I was tasked with maintaining the Django 1.9 backend and React 15.x front-end. 
-
-#### Lycoming.com - Backend/Front-end
-The Leader in aircraft Engine sales and parts supply. A marketing site with a multi-role user portal where suppliers can connect with distributors and manage their own individual profiles. users can search a large database of engines and engine parts. Printable engine spec-sheets and a complete mobile experience. 
 
 ---
 
