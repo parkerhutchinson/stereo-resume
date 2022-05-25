@@ -3,6 +3,7 @@
 * **Parker Hutchinson**
 * San Francisco
 * hutchinsonparker@gmail.com
+* [Website Portfolio](https://stereo.codes) 
 
 ## Senior Full Stack Javascript Developer / Human to Machine Interface Designer.
 
@@ -93,9 +94,6 @@ Using Dialogflow; A tool built by Google to facilitate training natural language
 
 ## Extras
 #### https://dribbble.com/parkerhutchinson - My most recent design work. 
-#### https://Stereo.codes - Designer/Developer
-Stereo.codes is my 2017-2018 online portfolio designed in sketch, built/TTD in React 16.x, deployed to a secure Digital Ocean Nginx Server. [github](https://github.com/stereocodes/stereo)
-
 
 #### Super Card Drawer
 Flutter widget package for creating a swipe to open drawer interface. [Super Card Drawer repo](https://github.com/parkerhutchinson/super_card_drawer)
