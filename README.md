@@ -1,4 +1,4 @@
-# Resume 2019
+# Resume 2022
 
 * **Parker Hutchinson**
 * San Francisco
@@ -8,7 +8,6 @@
 
 * 10+ years of professional web development/design experience. Working in everything under the sun and then some. 
 * Experience working in teams large and small, managing own time and client expectations. 
-* Planning, architecture, prototyping, 
 * ex-Agency rat working on large client projects including but not limited to Google, Spotify, Mozilla, HQ Trivia, Facebook, Parse, LinkedIn, and Tezos Blockchain. 
 
 **Experience**
@@ -104,12 +103,4 @@ Flutter widget package for creating a swipe to open drawer interface. [Super Car
 #### Stereo Command Line Interface (SCLI)
 A custom build CLI framework for myself to build out websites using contentful as a headless CMS. Using the Deno runtime to build a standalone binary command interface. [CLI Repo](https://github.com/parkerhutchinson/SCLI)
 
----
 
-## References
-
-| WHO | TITLE | CONTACT | RELATIONSHIP | LINKEDIN |
-| :--- | :--- | :--- | :--- | :--- |
-| **Tricia D'Anton** | UX Arch Amazon Alexa | triciad@amaz.on | Worked Together | [resume](https://www.linkedin.com/in/triciadantin/) |
-| **Rob Zienert** | Senior Developer Netflix | robzienert@gmail.com | Worked Together | [resume](https://www.linkedin.com/in/robzienert/) |
-| **Chris Reath** | Designer Uneo | chrisreath@gmail.com | Worked Together | [resume](https://www.linkedin.com/in/chrisreath/) |
