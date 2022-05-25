@@ -99,6 +99,6 @@ Using Dialogflow; A tool built by Google to facilitate training natural language
 Flutter widget package for creating a swipe to open drawer interface. [Super Card Drawer repo](https://github.com/parkerhutchinson/super_card_drawer)
 
 #### Stereo Command Line Interface (SCLI)
-A custom build CLI framework for myself to build out websites using contentful as a headless CMS. Using the Deno runtime to build a standalone binary command interface. [CLI Repo](https://github.com/parkerhutchinson/SCLI)
+A custom built CLI framework for myself to build out websites using contentful as a headless CMS. Using the Deno runtime to build a standalone binary command interface. [CLI Repo](https://github.com/parkerhutchinson/SCLI)
 
 
