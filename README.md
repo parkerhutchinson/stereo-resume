@@ -1,7 +1,7 @@
 # Resume 2019
 
 * **Parker Hutchinson**
-* Portland OR
+* San Francisco
 * hutchinsonparker@gmail.com
 
 ## Senior Full Stack Javascript Developer / Human to Machine Interface Designer.
@@ -9,16 +9,32 @@
 * 10+ years of professional web development/design experience. Working in everything under the sun and then some. 
 * Experience working in teams large and small, managing own time and client expectations. 
 * Planning, architecture, prototyping, 
-* Agency rat working on large client projects including but not limited to Google, Spotify, Mozilla, HQ Trivia, Facebook, Parse, LinkedIn, and Tezos Blockchain. 
+* ex-Agency rat working on large client projects including but not limited to Google, Spotify, Mozilla, HQ Trivia, Facebook, Parse, LinkedIn, and Tezos Blockchain. 
 
 **Experience**
 
-ActionScript2/3(no joke), HTML3-5, css2/3, JS/17/18/Edge, PHP, Python, Ruby, XML, XSLT, Go, Drupal, Wordpress, Laravel, Zend FW, Django 1.x/2.x, Rails, Angular 1.x, Backbone, React, Underscore/lodash, Prototype(the web framework), Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, GCP, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, PS, AI, Sketch, Phase, Invision Studio, Framer-x, Docker, Vagrant, Virtualenv, Pyenv
+React, NextJS, Vercel, Netlify, Flutter(dart) and so much more.. 
+
+ActionScript2/3(no joke), HTML3-5, css2/3, PHP, Python, Ruby, XML, XSLT, Drupal, Wordpress, Laravel, Zend FW, Django, Rails, Angular, Backbone, Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, GCP, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, Affinity Suite, Adobe Suite, Sketch, Figma, Docker, Vagrant, 
 
 ___
 
 
 ## Employment
+
+#### asana.com(brand side) https://asana.com - SWE (1 year)
+asana brought me on originally to help architect and design solutions for the re-platforming initiative they began on the dot com. asana.com was originally developed in a legacy version of a mostly unheard of static generation framework called Statemic. It was my shared responsibility to help in the technical transition of the site from php, html, css into NextJS, Contentful, React(TS), and CSS-in-JS. 
+
+* In cooperation with other senior level web engineers to architect and design a new marketing application for the asana.com website using current web development meta technologies. React+Typescript, with a NextJS backbone. Data would go from static markdown and yaml being live edited in github to the popular headless CMS Contentful. 
+* Lead work on developing a data model migration strategy that would allow developers to create feature enhancements without interrupting the day to day content changes made by content creators. This included command line tooling, documentation, CI/CD, and training. 
+* Help in the conversion of nearly 130 php/html templates into React+Typescript within a 5 month timespan. This also included some training of other developers not familiar with React+Typescript. 
+* Lead a number digital campaign rollouts using our newly created web application. This includedthe: 
+ 1. The development of a new homepage interactive experience 
+ 2. Leading the successful rollout of Enterprise digital content.
+ 3. The re-development of the applications and templates pages. 
+* asana also implements a leadership program called AOR(Area of Responsibility) where I was the direct owner of a number of internal business tools.
+
+
 
 #### The Brigade https://thisisthebrigade.com - Senior Developer / Human to Machine Interface Designer(2 years)
 As Senior Developer at Brigade my job encompasses the entire gamut of agency web development. Tasked with providing expert knowledge in web programming and agency process. To maintain client expectations on high-end web development and services. Provide solutions to tough client requests. Help the graphic designers transition to digital with all the knowledge of an experienced web dev.
@@ -54,10 +70,7 @@ Purple. Rock. Scissors.(PRPL) is a full service digital agency located in sunny 
 
 ---
 
-## Recent Work
-
-### asana.com (brand side)
-asana is one of the big online project management competitors with offices around the globe. 
+## Project Work
 
 
 #### Spotify for Brands - Principle Developer Architect / App Designer
@@ -84,9 +97,12 @@ Using Dialogflow; A tool built by Google to facilitate training natural language
 #### https://Stereo.codes - Designer/Developer
 Stereo.codes is my 2017-2018 online portfolio designed in sketch, built/TTD in React 16.x, deployed to a secure Digital Ocean Nginx Server. [github](https://github.com/stereocodes/stereo)
 
-#### Team Manager - Designer/Developer(active)
-A suite of technology and design open source that creates a intranet/intra-app for teams. Built in a Django Rest Framework backend with an Electron/React front-end. Generic named Team Manager has time tracking, metrics, team directory, profiles, and slack integration. The entire project from design, backend, and desktop front-end are open sourced and free to use for bootstraps or how-to's. [github](https://github.com/stereocodes/teamtracker-design/blob/master/app-boards.md)
 
+#### Super Card Drawer
+Flutter widget package for creating a swipe to open drawer interface. [Super Card Drawer repo](https://github.com/parkerhutchinson/super_card_drawer)
+
+#### Stereo Command Line Interface (SCLI)
+A custom build CLI framework for myself to build out websites using contentful as a headless CMS. Using the Deno runtime to build a standalone binary command interface. [CLI Repo](https://github.com/parkerhutchinson/SCLI)
 
 ---
 
