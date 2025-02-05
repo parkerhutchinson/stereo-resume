@@ -15,14 +15,22 @@
 
 React, NextJS, Vercel, Netlify, Flutter(dart) and so much more.. 
 
-ActionScript2/3(no joke), HTML3-5, css2/3, PHP, Python, Ruby, XML, XSLT, Drupal, Wordpress, Laravel, Zend FW, Django, Rails, Angular, Backbone, Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, GCP, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions, CSSinJS, styled-components, BEM, Atomic Design/Development, Affinity Suite, Adobe Suite, Sketch, Figma, Docker, Vagrant, 
+ActionScript2/3(no joke), XHTML, DHTML, HTML5, css2/3, PHP, Python, Ruby, XML, XSLT, Drupal, Wordpress, Laravel, Zend FW, Django, Rails, Angular, Backbone, Docker, Vagrant, Digital Ocean, Rackspace, AWS, EC2/S3/Lambda, GCP, Ubuntu, Apache, Nginx, Firebase, Dialogflow/Actions(RIP), CSSinJS, styled-components, Tailind, Class Variant Authority, BEM, Atomic Design/Development, Affinity Suite, Adobe Suite, Sketch, Figma. 
+
+If you can believe it, many more than this. I've work in virtually every kind of tech stack and variant there of. 
 
 ___
 
 
 ## Employment
 
-#### asana.com(brand side) https://asana.com - SWE (1 year)
+#### retool.com(brand side) https://retool.com - Senior Design Engineer
+As the primary maintainer of the web experience at retool my duties included:
+* Maintaining the site and functionality that was implemented before I was employed. The tech stack I inherited was Contentful, Netlify, Gatsby, React, Styled-components. Fixing bugs, fixing invalid markup, fixing API and datastructures.
+* Creating interactive experiences with the guidance of the design team. Working with the existing design language to build out pages for the marketing team. Making pages to experiment with growth and lead generation.
+* Eventually I was tasked with evaluting the current stack and seeing if we can improve or make the DX and management experience better. This involved research and tech analysis of various CMS solutions. Such as Hygraph, Markdowm(various static solutions), Sanity, and Dato. 
+
+#### asana.com(brand side) https://asana.com - Senior Web Engineer (1 year)
 asana brought me on originally to help architect and design solutions for the re-platforming initiative they began on the dot com. asana.com was originally developed in a legacy version of a mostly unheard of static generation framework called Statemic. It was my shared responsibility to help in the technical transition of the site from php, html, css into NextJS, Contentful, React(TS), and CSS-in-JS. 
 
 * In cooperation with other senior level web engineers to architect and design a new marketing application for the asana.com website using current web development meta technologies. React+Typescript, with a NextJS backbone. Data would go from static markdown and yaml being live edited in github to the popular headless CMS Contentful. 
