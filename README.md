@@ -5,10 +5,10 @@
 * hutchinsonparker@gmail.com
 * [Website Portfolio](https://stereo.codes) 
 
-## Senior Full Stack Javascript Developer / Human to Machine Interface Designer.
+## Senior Design/Web Engineer.
 
-* 10+ years of professional web development/design experience. Working in everything under the sun and then some. 
-* Experience working in teams large and small, managing own time and client expectations. 
+* 15 years of professional web development/design experience. Working in everything under the sun and then some. 
+* Experience working in teams large and small, managing my own time and client expectations. 
 * ex-Agency rat working on large client projects including but not limited to Google, Spotify, Mozilla, HQ Trivia, Facebook, Parse, LinkedIn, and Tezos Blockchain. 
 
 **Experience**
@@ -24,12 +24,13 @@ ___
 
 ## Employment
 
-#### retool.com(brand side) https://retool.com - Senior Design Engineer
+#### retool.com(brand side) https://retool.com - Senior Web Engineer
 As the primary maintainer of the web experience at retool my duties included:
 * Maintaining the site and functionality that was implemented before I was employed. The tech stack I inherited was Contentful, Netlify, Gatsby, React, Styled-components. Fixing bugs, fixing invalid markup, fixing API and datastructures.
 * Creating interactive experiences with the guidance of the design team. Working with the existing design language to build out pages for the marketing team. Making pages to experiment with growth and lead generation.
 * Eventually I was tasked with evaluting the current stack and seeing if we can improve or make the DX and management experience better. This involved research and tech analysis of various CMS solutions. Such as Hygraph, Markdowm(various static solutions), Sanity, and Dato.
-* One of the first initiatives I took was moving our site off of Netlify onto Vercel. This involved migrating the site by updating a ton of outdated depencies including Gatsby itself. The site had been locked to an older version of node and several versions behind on Gatsby. The site also suffered from having no process behind builds and deployments. Everything on the Netlify side was pushed live with no staging or development builds(nightmare scenerio).  
+* One of the first initiatives I took was moving our site off of Netlify onto Vercel. This involved migrating the site by updating a ton of outdated depencies including Gatsby itself. The site had been locked to an older version of node and several versions behind on Gatsby. The site also suffered from having no process behind builds and deployments. Everything on the Netlify side was pushed live with no staging or development builds(nightmare scenerio).
+* The underlying reason I wanted the site on Vercel was to convert the site over to NextJs. NextJS on Vercel is the most logical choice as it has several key advantages. 
 
 #### asana.com(brand side) https://asana.com - Senior Web Engineer (1 year)
 asana brought me on originally to help architect and design solutions for the re-platforming initiative they began on the dot com. asana.com was originally developed in a legacy version of a mostly unheard of static generation framework called Statemic. It was my shared responsibility to help in the technical transition of the site from php, html, css into NextJS, Contentful, React(TS), and CSS-in-JS. 
