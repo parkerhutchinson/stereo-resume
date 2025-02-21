@@ -29,9 +29,8 @@ ___
 As the primary maintainer of the web experience at retool my duties included:
 * Maintaining the site and functionality that was implemented before I was employed. The tech stack I inherited was Contentful, Netlify, Gatsby, React, Styled-components. Fixing bugs, fixing invalid markup, fixing API and datastructures.
 * Creating interactive experiences with the guidance of the design team. Working with the existing design language to build out pages for the marketing team. Making pages to experiment with growth and lead generation.
-* Eventually I was tasked with evaluting the current stack and seeing if we can improve or make the DX and management experience better. This involved research and tech analysis of various CMS solutions. Such as Hygraph, Markdowm(various static solutions), Sanity, and Dato.
-* One of the first initiatives I took was moving our site off of Netlify onto Vercel. This involved migrating the site by updating a ton of outdated depencies including Gatsby itself. The site had been locked to an older version of node and several versions behind on Gatsby. The site also suffered from having no process behind builds and deployments. Everything on the Netlify side was pushed live with no staging or development builds(nightmare scenerio).
-* The underlying reason I wanted the site on Vercel was to convert the site over to NextJs. NextJS on Vercel is the most logical choice as it has several key advantages. 
+* I was tasked with evaluting the current stack and seeing if we can improve or make the DX and management experience better. This involved research and tech analysis of various CMS solutions. This also included alternatives to our backend and hosting providers.
+* Post the evalutation I personally migrated the tech stack to Vercel,NextJS, and Sanity. Which saw a massive improvement in developer and management experience. FCP, TTI and performance scores all improved.  
 
 #### asana.com(brand side) https://asana.com - Senior Web Engineer (1 year)
 asana brought me on originally to help architect and design solutions for the re-platforming initiative they began on the dot com. asana.com was originally developed in a legacy version of a mostly unheard of static generation framework called Statemic. It was my shared responsibility to help in the technical transition of the site from php, html, css into NextJS, Contentful, React(TS), and CSS-in-JS. 
@@ -40,9 +39,9 @@ asana brought me on originally to help architect and design solutions for the re
 * Lead work on developing a data model migration strategy that would allow developers to create feature enhancements without interrupting the day to day content changes made by content creators. This included command line tooling, documentation, CI/CD, and training. 
 * Help in the conversion of nearly 130 php/html templates into React+Typescript within a 5 month timespan. This also included some training of other developers not familiar with React+Typescript. 
 * Lead a number digital campaign rollouts using our newly created web application. This includedthe: 
- 1. The development of a new homepage interactive experience 
- 2. Leading the successful rollout of Enterprise digital content.
- 3. The re-development of the applications and templates pages. 
+  - The development of a new homepage interactive experience 
+  - Leading the successful rollout of Enterprise digital content.
+  - The re-development of the applications and templates pages. 
 * asana also implements a leadership program called AOR(Area of Responsibility) where I was the direct owner of a number of internal business tools.
 
 
@@ -113,3 +112,5 @@ Flutter widget package for creating a swipe to open drawer interface. [Super Car
 A custom built CLI framework for myself to build out websites using contentful as a headless CMS. Using the Deno runtime to build a standalone binary command interface. [CLI Repo](https://github.com/parkerhutchinson/SCLI)
 
 
+## Retool Case Study
+As part of the evaluation I felt as though the current stack was not fast enough both on build and page load. FCP, TTI, and LCP were all considered. It was at this time I felt that moving the tech stack to vercel/nextjs would be the best solution as I've had great results from my work at Asana. The current build time was around 7 mins and the FCP was 2.5s~ with page performanace score of about 70.
