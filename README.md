@@ -4,6 +4,7 @@
 * San Francisco
 * hutchinsonparker@gmail.com
 * [Website Portfolio](https://stereo.codes) 
+* [Linkedin](https://www.linkedin.com/in/parker-hutchinson-39a9b252/)
 
 ## Senior Design/Web Engineer.
 
