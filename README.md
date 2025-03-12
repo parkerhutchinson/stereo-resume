@@ -3,7 +3,7 @@
 * **Parker Hutchinson**
 * San Francisco
 * hutchinsonparker@gmail.com
-* [Website Portfolio](https://stereo.codes) 
+* [Website Portfolio](https://stereo.codes) (NextJS,ThreeJS,Vercel)
 * [Linkedin](https://www.linkedin.com/in/parker-hutchinson-39a9b252/)
 
 ## Senior Design/Web Engineer.
@@ -27,12 +27,12 @@ ___
 
 #### retool.com(brand side) https://retool.com - Senior Web Engineer
 As the primary maintainer of the web experience at retool my duties included:
-* Maintaining the site and functionality that was implemented before I was employed. The tech stack I inherited was Contentful, Netlify, Gatsby, React, Styled-components. Fixing bugs, fixing invalid markup, fixing API and datastructures.
+* Maintaining the site and functionality that was implemented before I was employed. The tech stack I inherited was Contentful, Netlify, Gatsby, React, Styled-components. This involved Fixing bugs, fixing invalid markup, fixing API and datastructures.
 * Creating interactive experiences with the guidance of the design team. Working with the existing design language to build out pages for the marketing team. Making pages to experiment with growth and lead generation.
 * I was tasked with evaluting the current stack and seeing if we can improve or make the DX and management experience better. This involved research and tech analysis of various CMS solutions. This also included alternatives to our backend and hosting providers.
 * Post the evalutation I personally migrated the tech stack to Vercel,NextJS, and Sanity. Which saw a massive improvement in developer and management experience. FCP, TTI and performance scores all improved.  
 
-#### asana.com(brand side) https://asana.com - Senior Web Engineer (1 year)
+#### asana.com(brand side) https://asana.com - Senior Web Engineer
 asana brought me on originally to help architect and design solutions for the re-platforming initiative they began on the dot com. asana.com was originally developed in a legacy version of a mostly unheard of static generation framework called Statemic. It was my shared responsibility to help in the technical transition of the site from php, html, css into NextJS, Contentful, React(TS), and CSS-in-JS. 
 
 * In cooperation with other senior level web engineers to architect and design a new marketing application for the asana.com website using current web development meta technologies. React+Typescript, with a NextJS backbone. Data would go from static markdown and yaml being live edited in github to the popular headless CMS Contentful. 
@@ -46,7 +46,7 @@ asana brought me on originally to help architect and design solutions for the re
 
 
 
-#### The Brigade https://thisisthebrigade.com - Senior Developer / Human to Machine Interface Designer(2 years)
+#### The Brigade https://thisisthebrigade.com - Senior Developer / Human to Machine Interface Designer
 As Senior Developer at Brigade my job encompasses the entire gamut of agency web development. Tasked with providing expert knowledge in web programming and agency process. To maintain client expectations on high-end web development and services. Provide solutions to tough client requests. Help the graphic designers transition to digital with all the knowledge of an experienced web dev.
 
 * Develop high scaleable web applications in PHP, React, and bleeding edge web technologies.
@@ -57,7 +57,7 @@ As Senior Developer at Brigade my job encompasses the entire gamut of agency web
 * Design interfaces for client facing applications.
 
 
-#### Draftboard https://draftboard.com - Full Stack Javascript Developer (1 year)
+#### Draftboard https://draftboard.com - Full Stack Javascript Developer
 Draftboard is a online fantasy sports betting application written in Django backend, React front-end, deployed to Heroku CI server. User profiles that manage monetary transactions. Offsite API and local data using Redux and pusher for near real time async data display. 
 
 * React15.x front-end development working with external and cached data.
@@ -68,7 +68,7 @@ Draftboard is a online fantasy sports betting application written in Django back
 * Create a unified application experience through atomic design. 
 
 
-#### Purple. Rock. Scissors. https://prpl.rs - Client Side Engineer(Full Stack Javascript Developer) (6 years+)
+#### Purple. Rock. Scissors. https://prpl.rs - Client Side Engineer(Full Stack Javascript Developer)
 Purple. Rock. Scissors.(PRPL) is a full service digital agency located in sunny Orlando Florida. As client side engineer I was entrusted with the ability to deliver front-end and backend web experience to large national and local clients.
 
 * Working with clients, strategy, managers, and designers to deliver high quality web experiences
@@ -105,12 +105,8 @@ Using Dialogflow; A tool built by Google to facilitate training natural language
 ## Extras
 #### https://dribbble.com/parkerhutchinson - My most recent design work. 
 
-#### Super Card Drawer
-Flutter widget package for creating a swipe to open drawer interface. [Super Card Drawer repo](https://github.com/parkerhutchinson/super_card_drawer)
+#### Dart Sanity Client
+An OSS package for dart that closely mimics the official JS client for sanity. Dart and flutter applications can use sanity as a CMS to perform queries and CRUD operations. [Repo](https://github.com/parkerhutchinson/dart_sanity_client), [Pub.dev](https://pub.dev/packages/dart_sanity_client)
 
 #### Stereo Command Line Interface (SCLI)
 A custom built CLI framework for myself to build out websites using contentful as a headless CMS. Using the Deno runtime to build a standalone binary command interface. [CLI Repo](https://github.com/parkerhutchinson/SCLI)
-
-
-## Retool Case Study
-As part of the evaluation I felt as though the current stack was not fast enough both on build and page load. FCP, TTI, and LCP were all considered. It was at this time I felt that moving the tech stack to vercel/nextjs would be the best solution as I've had great results from my work at Asana. The current build time was around 7 mins and the FCP was 2.5s~ with page performanace score of about 70.
