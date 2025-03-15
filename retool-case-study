@@ -1,2 +1,0 @@
-## Retool Case Study
-As part of the evaluation I felt as though the current stack was not fast enough both on build and page load. FCP, TTI, and LCP were all considered. It was at this time I felt that moving the tech stack to vercel/nextjs would be the best solution as I've had great results from my work at Asana. The current build time was around 7 mins and the FCP was 2.5s~ with page performanace score of about 70.
