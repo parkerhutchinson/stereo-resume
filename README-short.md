@@ -1,7 +1,7 @@
 ## Parker Hutchinson
 * San Francisco
 * hutchinsonparker@gmail.com
-* [Website Portfolio](https://stereo.codes) (NextJS, ThreeJS, Vercel, contentful)
+* [Website Portfolio](https://stereo.codes) (NextJS, ThreeJS, Vercel, Sanity, Tailwind)
 
 
 ## Senior Design/Web Engineer.
