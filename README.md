@@ -1,9 +1,9 @@
-# Resume 2025
+# Resume 2026
 
 * **Parker Hutchinson**
 * San Francisco
 * hutchinsonparker@gmail.com
-* [Website Portfolio](https://stereo.codes) (NextJS, ThreeJS, Vercel)
+* [Website Portfolio](https://stereo.codes) (NextJS, Vercel, ThreeJS, Sanity, Tailwind)
 * [Linkedin](https://www.linkedin.com/in/parker-hutchinson-39a9b252/)
 
 ## Senior Design/Web Engineer.
