@@ -14,6 +14,12 @@
 
 ## Employment
 
+#### peregrine.io(brand side) https://peregrine.io - Senior Web Engineer(solo)
+Solo web developer responsible for modernizing tech stack:
+* In the first 3 months of employment I convinced leadership to re-platform from the existing Framer setup into a modern tech stack. That stack was Sanity, Vercel, NextJS, and Tailwind. This was a build from scratch type of thing as Framer, for the most part, is all configuration and no components or css. The buildout involved architecting the entire stack for backend and frontend. Agententic coding was used to quickly port their entire blog from framer into sanity and used heavily for scaffolding and template generation. I also used it to create a fragment shader in ThreeJS to run their original homepage interaction.
+* Remainder of time spent there was building out the rebrand into what is shown on their site today. All interaction, porting, architecture was again solo done by myself and this also included schema and sanity upgrades.
+* On going support for the site in various ways. Upgrading sanity to use modern features like preview mode and live editing. I also built out a sanity app that was complete documentation for authors with images and examples. Custom fields in sanity like one for AB testing that uses a custom made feature flag system using Vercels' Flags SDK.
+
 #### retool.com(brand side) https://retool.com - Senior Web Engineer
 As the primary maintainer of the web experience at retool my duties included:
 * Maintaining the site and functionality that was implemented before I was employed. The tech stack I inherited was Contentful, Netlify, Gatsby, React, Styled-components. This involved Fixing bugs, fixing invalid markup, fixing API and data structures.
@@ -52,13 +58,3 @@ Draftboard is a online fantasy sports betting application written in Django back
 * Convert the desktop presence into a functioning mobile experience.
 * Work with the Heroku CI server for daily deployments.
 * Create a unified application experience through atomic design. 
-
-
-#### Purple. Rock. Scissors. https://prpl.rs - Client Side Engineer(Full Stack Javascript Developer)
-Purple. Rock. Scissors.(PRPL) is a full service digital agency located in sunny Orlando Florida. As client side engineer I was entrusted with the ability to deliver front-end and backend web experience to large national and local clients.
-
-* Working with clients, strategy, managers, and designers to deliver high quality web experiences
-* development with large scale companies on distributed networks. 
-* design and develop high functioning front-end experiences. 
-* Build manageable backends in Larvel, Django, Wordpress, Drupal and Node.
-* Maintain servers including delivery and building from scratch Apache and Nginx systems.
