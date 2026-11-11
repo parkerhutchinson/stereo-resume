@@ -24,6 +24,11 @@ ___
 
 
 ## Employment
+#### peregrine.io(brand side) https://peregrine.io - Senior Web Engineer(solo)
+Solo web developer responsible for modernizing tech stack:
+* In the first 3 months of employment I convinced leadership to re-platform from the existing Framer setup into a modern tech stack. That stack was Sanity, Vercel, NextJS, and Tailwind. This was a build from scratch type of thing as Framer, for the most part, is all configuration and no components or css. The buildout involved architecting the entire stack for backend and frontend. Agententic coding was used to quickly port their entire blog from framer into sanity and used heavily for scaffolding and template generation. I also used it to create a fragment shader in ThreeJS to run their original homepage interaction.
+* Remainder of time spent there was building out the rebrand into what is shown on their site today. All interaction, porting, architecture was again solo done by myself and this also included schema and sanity upgrades.
+* On going support for the site in various ways. Upgrading sanity to use modern features like preview mode and live editing. I also built out a sanity app that was complete documentation for authors with images and examples. Custom fields in sanity like one for AB testing that uses a custom made feature flag system using Vercels' Flags SDK.
 
 #### retool.com(brand side) https://retool.com - Senior Web Engineer
 As the primary maintainer of the web experience at retool my duties included:
